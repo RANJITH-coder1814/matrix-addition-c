@@ -9,7 +9,7 @@ This project demonstrates how to perform **addition of two matrices** using a **
 - 2D Arrays
 - Nested loops
 - Input and output in C
-- 
+
 ## 🎯 Use Case
 Useful for beginners learning:
 - 2D arrays
